@@ -1,8 +1,8 @@
 # Supreme Trading Terminal
 
-Public results for a local options terminal. From January 2020 through August 2025 it runs four option strategies on SPX, SPY, QQQ, and DIA, and shows volatility, where option exposure sits, and which strikes to use.
+Supreme Trading Terminal is a local options terminal for US index and ETF options. It watches volatility, where option exposure sits, and whether the market is calm or stressed, then suggests strikes for four books: an iron condor, a short put, a covered call, and a call ratio backspread. The books are tested on SPX, SPY, QQQ, and DIA from January 2020 through August 2025.
 
-This page keeps the results, the screens, and a short note on what went into them.
+The working repository is private. This one is only a public display of the results: which book fits each ticker, the performance, the screens, and a short note on what went into the work.
 
 ## Which book each ticker uses
 
